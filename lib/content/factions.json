@@ -1,0 +1,17 @@
+[
+  {
+    "id": "SilverContrails",
+    "name": "Silver Contrails",
+    "description": "A mobile nomad fleet renowned for precision piloting and neutrality."
+  },
+  {
+    "id": "Syndicate",
+    "name": "Syndicate",
+    "description": "A ruthless cartel controlling fuel and trade routes."
+  },
+  {
+    "id": "CaelusPrime",
+    "name": "Caelus Prime",
+    "description": "A sovereign city‑state built on towering platforms above the clouds."
+  }
+]

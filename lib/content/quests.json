@@ -1,0 +1,12 @@
+[
+  {
+    "id": "Q-ESCORT-001",
+    "name": "Ghost Run",
+    "stages": [
+      { "i": 0, "desc": "Meet your contact at Dock 12", "require": ["location==Skyhaven.Docks"] },
+      { "i": 1, "desc": "Negotiate the escort fee", "check": { "stat": "Charisma", "dc": 12 } },
+      { "i": 2, "desc": "Escort the freighter through Ion Channel Sector 3", "combat": "pirate_skirmish" },
+      { "i": 3, "desc": "Deliver the cargo to Nimbus Sprawl", "reward": { "credits": 600, "rep": { "Syndicate": 1 } } }
+    ]
+  }
+]

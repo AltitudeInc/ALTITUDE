@@ -1,0 +1,17 @@
+[
+  {
+    "id": "Skyhaven.Docks",
+    "name": "Skyhaven Docks",
+    "description": "The central docking hub of Skyhaven, buzzing with merchants and captains."
+  },
+  {
+    "id": "Skyhaven.Bazaar",
+    "name": "Skyhaven Bazaar",
+    "description": "A crowded marketplace filled with exotic goods and hushed whispers."
+  },
+  {
+    "id": "IonChannel.Sector3",
+    "name": "Ion Channel Sector 3",
+    "description": "A treacherous stretch of stormy skies known for pirate ambushes."
+  }
+]

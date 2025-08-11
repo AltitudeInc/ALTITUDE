@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mechanic.Vigil",
+    "name": "Vigil",
+    "role": "Mechanic",
+    "faction": "SilverContrails",
+    "description": "A stoic engineer who maintains Skyhaven's aging hulls.",
+    "goals": "Keep the fleet aloft and avoid Syndicate entanglements.",
+    "secrets": "Once a pirate, now seeking redemption."
+  },
+  {
+    "id": "contact.SableKith",
+    "name": "Sable Kith",
+    "role": "Contact",
+    "faction": "Syndicate",
+    "description": "A suave agent who trades information for favors.",
+    "goals": "Advance the Syndicate's reach through strategic alliances.",
+    "secrets": "Has a sister hidden in Caelus Prime."
+  }
+]

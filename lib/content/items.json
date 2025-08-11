@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tool.nanospanner",
+    "name": "Nanospanner",
+    "type": "tool",
+    "description": "A compact tool used for delicate repairs aboard airships.",
+    "modifiers": {},
+    "tags": ["mechanic"]
+  },
+  {
+    "id": "weapon.flak_pistol",
+    "name": "Flak Pistol",
+    "type": "weapon",
+    "description": "A standard sidearm firing explosive rounds.",
+    "modifiers": { "attack": 2 },
+    "tags": ["ranged"]
+  }
+]
